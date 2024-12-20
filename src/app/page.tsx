@@ -24,7 +24,7 @@ const page = () => {
                </div>
                {/* image section */}
                <div className='flex justify-center mt-2'>
-       <Image src="/1sh.jpg" alt="shose img" width={1500} height={1500}  />
+       <Image src="/sho.png" alt="shose img" width={1500} height={1500}  />
            {/* <img src="1 sh.jpg" alt="shose img" className='h-[700px] w-[1500px]' /> */}
                </div>
                {/* text section */}
@@ -73,7 +73,7 @@ const page = () => {
       </div>
         <img
           className="h-auto max-w-full rounded-lg mt-16 "
-          src="/shose.jpg"
+          src="/1s.png"
           alt="Featured"
         />
 
@@ -81,7 +81,7 @@ const page = () => {
       <div className=' mt-16'>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/shose2.jpg"
+          src="/1s.png"
           alt="Image 1"
         />
       </div>
@@ -90,7 +90,7 @@ const page = () => {
        
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/shose3.jpg"
+          src="/2s.png"
           alt="Image 2"
         />
         
@@ -111,7 +111,7 @@ const page = () => {
                                
                                <div className='mt-5'>                                                     
     <div className=' font-semibold'>  <h1 className='  mt-9'>Featured</h1> </div>                                                         
-         <Image src="/run img.jpg" alt="shose img" width={1500} height={1500}  /></div>             
+         <Image src="/runing.png" alt="shose img" width={1500} height={1500}  /></div>             
   </div>
 
                    <h1 className='flex justify-center font-bold from-neutral-950 text-2xl sm:text-5xl mt-11'>STEP INTO WHAT FEELS GOOD</h1>
@@ -127,20 +127,20 @@ const page = () => {
   lg:grid-cols-4 md:grid-cols-4 sm:grid-cols-4  gap-5  justify-center mt-4'>
 
 <div>
-<Image src="/bl-ts.jpg"alt='atshart' height={365}width={365} className='rounded-3xl'></Image>
+<Image src="/bs.png"alt='atshart' height={365}width={365} className='rounded-3xl'></Image>
 <h1 className='text-xs font-semibold mt-4'>Nike Dri-FIT Challenger  ₹ 2 495</h1>
 <p className='text-gray-400 my-2'>Men's 18cm (approx.) 2 </p>
 <p className='text-gray-400'>-in-1 Versatile Shorts</p>
 </div>
 <div>
-<Image src="/b-ts.jpg"alt='atshart' height={365}width={365} className='rounded-3xl'></Image>
+<Image src="/bsh.png"alt='atshart' height={365}width={365} className='rounded-3xl'></Image>
 <h1 className='text-xs font-semibold mt-6'>NIKE Dri-FIT ADV TechKnit Ultra  ₹ 3 895</h1>
 <p className='text-gray-400 my-2'>Men's Short-Sleeve </p>
 <p className='text-gray-400'>Running Top</p>
 
 </div>   
 <div>
-<Image src="/b-ss.jpg"alt='atshart' height={365}width={365} className='rounded-3xl'></Image>
+<Image src="/bss.png"alt='atshart' height={365}width={365} className='rounded-3xl'></Image>
 <h1 className='text-xs font-semibold mt-4'>Nike Dri-FIT ADV Run Division  ₹ 5 295
  </h1>
 <p className='text-gray-400 my-2'>Women's Long-Sleeve</p>
